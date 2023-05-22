@@ -15,7 +15,7 @@ import java.awt.event.KeyListener;
 
 /**
  *
- * @author chinm
+ * @author riz
  */
 class GamePlay extends JPanel implements KeyListener , ActionListener {
     
